@@ -1,0 +1,1 @@
+Simple HTML5 and CSS3 site, using RWD technology.
